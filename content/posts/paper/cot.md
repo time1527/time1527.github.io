@@ -1,10 +1,9 @@
 ---
 date: '2024-12-23T20:00:00+08:00'
 draft: false
-title: 'CoT笔记：Chain-of-thought prompting elicits reasoning in large language models'
+title: 'CoT笔记：Chain-of-Thought Prompting Elicits Reasoning in Large Language Models'
 tags: ["prompt","reasoning","CoT"]
 categories: ["大模型"]
-
 ---
 
 https://xves6ft58q.feishu.cn/docx/QwyTdFzCHoShbgx1cgrcya4GnNe?from=from_copylink

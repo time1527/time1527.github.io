@@ -58,10 +58,10 @@ params:
 
 menu:
   main:
-    - identifier: home
-      name: Home
-      url: /
-      weight: 1
+    # - identifier: home
+    #   name: Home
+    #   url: /
+    #   weight: 1
     # - identifier: archives
     #   name: Archive
     #   url: /archives/
