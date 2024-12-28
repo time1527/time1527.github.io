@@ -1,7 +1,7 @@
 ---
 date: '2024-12-23T20:00:00+08:00'
 draft: false
-title: 'FireAct笔记：FireAct: Toward language agent fine-tuning'
+title: 'FireAct笔记：FireAct: Toward Language Agent Fine-tuning'
 tags: ["reasoning","ReAct","finetune","agent"]
 categories: ["大模型"]
 ---

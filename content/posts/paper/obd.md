@@ -1,7 +1,7 @@
 ---
 date: '2024-12-23T20:00:00+08:00'
 draft: false
-title: 'OBD笔记：Optimal brain damage'
+title: 'OBD笔记：Optimal Brain Damage'
 tags: ["剪枝"]
 categories: ["神经网络"]
 ---
