@@ -1,8 +1,8 @@
 ---
 date: '2024-12-26T22:00:00+08:00'
 draft: false
-title: 'transformer笔记：Attention Is All You Need'
-tags: ["transformer"]
+title: 'Transformer笔记：Attention Is All You Need'
+tags: ["Transformer"]
 categories: ["大模型"]
 ---
 
