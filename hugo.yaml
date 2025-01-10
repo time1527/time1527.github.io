@@ -62,10 +62,10 @@ menu:
     #   name: Home
     #   url: /
     #   weight: 1
-    # - identifier: archives
-    #   name: Archive
-    #   url: /archives/
-    #   weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 15
     - identifier: posts
       name: Posts
       url: /posts/
