@@ -2,7 +2,7 @@
 date: '2024-12-28T20:00:00+08:00'
 draft: false
 title: 'MQA笔记'
-tags: ["kv cache优化","inference","MQA"]
+tags: ["kv cache优化","解码","MQA"]
 categories: ["大模型"]
 ---
 
