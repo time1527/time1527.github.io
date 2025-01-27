@@ -2,7 +2,7 @@
 date: '2024-12-27T20:00:00+08:00'
 draft: false
 title: 'GPT2笔记'
-tags: ["GPT","无监督","预训练","decoder"]
+tags: ["GPT","无监督","decoder"]
 categories: ["大模型"]
 ---
 

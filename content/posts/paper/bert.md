@@ -2,7 +2,7 @@
 date: '2024-12-26T22:00:00+08:00'
 draft: false
 title: 'BERT笔记'
-tags: ["encoder","预训练+微调","BERT"]
+tags: ["encoder","BERT"]
 categories: ["神经网络"]
 ---
 
