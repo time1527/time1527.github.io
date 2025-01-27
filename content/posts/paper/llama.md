@@ -1,8 +1,8 @@
 ---
 date: '2024-12-28T20:00:00+08:00'
 draft: false
-title: 'LLaMA笔记'
-tags: ["LLaMA","预训练"]
+title: 'LLAMA笔记'
+tags: ["LLAMA"]
 categories: ["大模型"]
 ---
 

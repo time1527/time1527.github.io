@@ -2,7 +2,7 @@
 date: '2024-12-26T20:00:00+08:00'
 draft: false
 title: 'ViT笔记'
-tags: ["ViT","预训练+微调"]
+tags: ["ViT"]
 categories: ["大模型","CV"]
 ---
 
