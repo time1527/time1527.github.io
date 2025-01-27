@@ -1,7 +1,7 @@
 ---
 date: '2025-01-19T00:00:00+08:00'
 draft: false
-title: 'LLAMA笔记'
+title: 'LLAMA2笔记'
 tags: ["LLAMA"]
 categories: ["大模型"]
 ---
