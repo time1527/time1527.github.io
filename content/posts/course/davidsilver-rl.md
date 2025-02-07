@@ -2,8 +2,8 @@
 date: '2024-12-18T23:00:00+08:00'
 draft: false
 title: 'David Silver Reinforcement Learning'
-tags: ["强化学习基础"]
-categories: ["强化学习"]
+tags: []
+categories: ["RL"]
 ---
 
 [0. material](https://xves6ft58q.feishu.cn/docx/D6xJdt3uOooDGRxos9ocvtunngf?from=from_copylink)
