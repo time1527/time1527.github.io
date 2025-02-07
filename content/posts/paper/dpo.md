@@ -2,7 +2,7 @@
 date: '2025-01-23T22:28:38+08:00'
 draft: false
 title: 'DPO'
-tags: ["PostTraining"]
+tags: ["DPO"]
 categories: ["LLM"]
 ---
 
