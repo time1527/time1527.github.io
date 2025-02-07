@@ -1,8 +1,8 @@
 ---
 date: '2025-01-23T21:00:00+08:00'
 draft: false
-title: 'Scaling Test Time Compute笔记'
-tags: ["test-time compute","scaling"]
+title: 'Scaling Test Time Compute'
+tags: ["Test-time Compute","scaling"]
 categories: ["LLM"]
 ---
 

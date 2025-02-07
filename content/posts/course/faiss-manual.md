@@ -2,7 +2,7 @@
 date: '2025-01-10T20:00:00+08:00'
 draft: false
 title: 'Faiss Manual'
-tags: ["LSH","PQ","HNSW","IVF"]
+tags: ["VectorStore"]
 categories: ["Faiss"]
 ---
 

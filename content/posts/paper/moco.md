@@ -1,8 +1,8 @@
 ---
 date: '2025-01-16T23:00:00+08:00'
 draft: false
-title: 'Moco笔记'
-tags: ["MoCo","对比学习"]
+title: 'Moco'
+tags: ["MoCo","ContrastiveLearning"]
 categories: ["CV"]
 ---
 

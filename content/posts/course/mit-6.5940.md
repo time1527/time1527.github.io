@@ -2,8 +2,8 @@
 date: '2024-12-28T20:00:00+08:00'
 draft: false
 title: 'MIT 6.5940'
-tags: ["剪枝","量化","蒸馏","NAS","Transformer","Vision Transformer","分布式训练"]
-categories: ["大模型","神经网络"]
+tags: ["Pruning","Quantization","Distillation","NAS","Transformer"]
+categories: ["LLM","NN","LMM","Distributed Training"]
 ---
 
 [0. material](https://xves6ft58q.feishu.cn/docx/ZgTDdZOOdomIolxW3VPcEpfQn7t?from=from_copylink)
